@@ -182,6 +182,8 @@ I'm in love with this repo. - Dhruv KB ;)
 I love this repo :D
 Nice one!
 
+The idea is great and we need a voting function to have some features (like botwillacceptanything)
+
 Really good for someone who want to increase contribution count. :D
 
 ```
